@@ -1,4 +1,3 @@
-layout_spectrum: 0.8798613217659295
 typography_spectrum: 0.9299132393207401
 color:
   brandStrength: 0.3593085736501962
@@ -11,4 +10,6 @@ color:
     - '#CAC0B7'
     - '#651D31'
     - '#F7B432'
+layout_spectrum: 0.8798613217659295
 name: Half Hitch Brewing Company
+title: "Brewed by Family, Shared with Friends.\_"
